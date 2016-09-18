@@ -4,5 +4,7 @@ Turn your internet into late-19th century Bowery dialect. All wordss lifted from
 
 # To Install
 Download Maggie.crx
+
 In chrome, navigate to chrome://extensions
+
 Drag the file into the window. 
