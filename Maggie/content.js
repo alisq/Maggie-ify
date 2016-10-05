@@ -1,4 +1,4 @@
-//built be reverse engineering the Drumphinator by Last Week Tonight.
+//built by reverse engineering the Drumphinator by Last Week Tonight. All respect to sources.
 
 walk(document.body);
 setTimeout(function () {
@@ -38,7 +38,7 @@ v=v.replace(/\bworld\b/g,  "woild");
 v=v.replace(/\bthey\b/g,"dey");
 v=v.replace(/\blook\b/g,"lookut");
 v=v.replace(/\bthere\b/g,"dere");
-v=v.replace(/\bis\b/g,"ain’");
+v=v.replace(/\bisn't\b/g,"ain’");
 v=v.replace(/\bpretty\b/g,"purty");
 v=v.replace(/\bjust\b/g,"jes’");
 v=v.replace(/\bmother\b/g,"mudder");
