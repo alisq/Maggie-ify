@@ -8,3 +8,7 @@ Download Maggie.crx
 In chrome, navigate to chrome://extensions
 
 Drag the file into the window. 
+
+
+# Respect to Sources
+This was built by reverse-engineering Last Week Tonight's Drumpfinator. 
